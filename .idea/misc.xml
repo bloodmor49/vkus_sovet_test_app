@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.176" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/bottom_nav_item_color.xml" value="0.167" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1585" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.1585" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/ic_baseline_work_outline_24.xml" value="0.1585" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.164" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.164" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.176" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/drawable/ic_outline_info_24.xml" value="0.167" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/activity_main2.xml" value="0.6321428571428571" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/fragment_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/layout_test.xml" value="0.1" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/menu_item_card.xml" value="0.22" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/menu_item_card_act.xml" value="0.14324569356300998" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/menu_item_card_selected.xml" value="0.14324569356300998" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/menu_sub_item_card.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/submenu_item_card.xml" value="0.25" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/switch_item.xml" value="0.5" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/layout/toolbar.xml" value="0.20159151193633953" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.167" />
+        <entry key="..\:/Users/Artem/AndroidStudioProjects/vkusosvet_test_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">vkus_sovet_test_app</string>
+    <string name="title_home"></string>
+    <string name="title_dashboard"></string>
+    <string name="title_notifications"></string>
+    <string name="menuitem_name">Название категории</string>
+    <string name="tvsubmenucount">Количество</string>
+    <string name="tvsubmenucontent">Описание</string>
+    <string name="logo_name">VKUSSOVET</string>
+    <string name="call">Call</string>
+    <string name="subMenuName">Выберите категорию:</string>
+    <string name="price">Цена</string>
+    <string name="weight">/ Масса</string>
+    <string name="to_cart">В корзину</string>
+    <string name="ivsubitemimage">ivSubItemImage</string>
+    <string name="ivspicy">ivSpicy</string>
+</resources>
