@@ -42,14 +42,14 @@
                 android:layout_height="0dp"
                 android:layout_margin="5dp"
                 android:layout_weight="25"
-                android:autoSizeMaxTextSize="120sp"
-                android:autoSizeMinTextSize="18sp"
-                android:autoSizeStepGranularity="6sp"
+                android:autoSizeMaxTextSize="24sp"
+                android:autoSizeMinTextSize="14sp"
+                android:autoSizeStepGranularity="2sp"
                 android:autoSizeTextType="uniform"
                 android:gravity="center"
                 android:text="@string/menuitem_name"
                 android:textColor="@color/white"
-                android:textSize="18sp"
+                android:textSize="14sp"
                 android:textStyle="bold" />
 
             <com.google.android.material.textview.MaterialTextView
@@ -58,14 +58,14 @@
                 android:layout_height="0dp"
                 android:layout_margin="5dp"
                 android:layout_weight="25"
-                android:autoSizeMaxTextSize="120sp"
-                android:autoSizeMinTextSize="14sp"
+                android:autoSizeMaxTextSize="22sp"
+                android:autoSizeMinTextSize="12sp"
                 android:autoSizeStepGranularity="10sp"
                 android:autoSizeTextType="uniform"
                 android:gravity="center"
                 android:text="@string/tvsubmenucount"
                 android:textColor="@color/white"
-                android:textSize="14sp" />
+                android:textSize="12sp" />
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>
