@@ -19,7 +19,7 @@ class RepositoryImpl @Inject constructor(
             Resource.Success(data = apiFactory.retrofit.getMenu().menus.toMenuItemList())
         } catch (e: Exception) {
             e.printStackTrace()
-            Resource.Error(e.message ?: "Неизвестная ошибка в методе getMenu")
+            Resource.Error(e.message ?: "Неизвестная ошибка в методе getMenu. Проверьте интернет соединение.")
         }
     }
 
@@ -34,7 +34,7 @@ class RepositoryImpl @Inject constructor(
             }
         } catch (e: Exception) {
             e.printStackTrace()
-            Resource.Error(e.message ?: "Неизвестная ошибка getSubMenu")
+            Resource.Error(e.message ?: "Неизвестная ошибка getSubMenu. Проверьте интернет соединение")
         }
     }
 }

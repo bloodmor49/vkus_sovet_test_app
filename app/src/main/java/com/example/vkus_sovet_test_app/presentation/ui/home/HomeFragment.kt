@@ -58,14 +58,14 @@ class HomeFragment : Fragment() {
     }
 
     private fun setSubMenuAndName(it: MenuItem) {
-        homeViewModel.loadSubMenu(it.menuId)
+        homeViewModel.loadSubMenu(requireContext(), it.menuId)
         binding.tvSubMenuName.text = it.name
     }
 
     private fun setUpViewModel() {
         homeViewModel =
             ViewModelProvider(this)[HomeViewModel::class.java]
-        homeViewModel.loadMenu()
+        homeViewModel.loadMenu(requireContext())
     }
 
     private fun subscribeToObservers() {
